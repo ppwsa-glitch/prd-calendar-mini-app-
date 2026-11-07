@@ -1,0 +1,15 @@
+{
+  "name": "PRD-Calendar",
+  "short_name": "PRD-Calendar",
+  "description": "កម្មវិធីជំនួយការងារបុគ្គលិក PRD-Calendar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f8",
+  "theme_color": "#0e4a52",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
